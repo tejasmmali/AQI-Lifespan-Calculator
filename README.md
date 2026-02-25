@@ -1,4 +1,3 @@
-#HackClub flavortown Project This is Software Version this is an people awareness spreding project to aware people toward health harm causing by poor AQI  
 
 # AQI-Lifespan Calculator
 
